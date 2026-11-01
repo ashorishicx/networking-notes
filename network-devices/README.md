@@ -24,12 +24,11 @@ A **computer network** is a collection of interconnected devices that share reso
 - intermediary devices facilitate communication between two endpoints / hosts
 
 ### Switch
-- Without a switch, a device in the network would need an individual connection to each device in their LAN to be able to send a message to anyone in their LAN.
-- A switch eliminates this by having everyone in the LAN connect to it. When a switch receives a message from a connected device, it sends the message out the port that the intended recipient of the message within the network has connected to on the switch. 
 - Has lots of ports, this is so that every device in the LAN can connect to it
+- Without a switch, a device in the network would need an individual connection to each device in their LAN to be able to send a message to anyone in their LAN. A switch eliminates this by having everyone in the LAN connect to its ports. When a switch receives a message from a device, it sends the message out the port that the intended recipient of the message within the network connected to.
 ### Router
 - have fewer network interfaces/ports than switches
-- are used to provide connectivity **between** LANs (switches could only provide connectivity **within** LANs)
+- are used to provide connectivity **between** LANs (whereas switches only provide connectivity **within** LANs)
 ### Firewall
 - monitor and control network traffic based on configured rules
 - can be placed **outside** of your LAN (filter traffic *before* reaching the router)
