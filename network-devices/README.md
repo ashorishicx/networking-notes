@@ -9,7 +9,6 @@
 A **computer network** is a collection of interconnected devices that share resources with each other.
 
 ![image](images/switches-routers-firewalls.png)
-![image](images/node_icons.png)
 
 ## End Point Devices / Hosts
 
@@ -21,6 +20,9 @@ A **computer network** is a collection of interconnected devices that share reso
 
 ## Intermediary Devices
 - intermediary devices facilitate communication between two endpoints / hosts
+
+![image](images/node_icons.png)
+
 ### Switch
 - Without a switch, a device in the network would need an individual connection to each device in their LAN to be able to send a message to anyone in their LAN.
 - A switch eliminates this by having everyone in the LAN connect to it. When a switch receives a message from a connected device, it sends the message out the port that the intended recipient of the message within the network has connected to on the switch. 
