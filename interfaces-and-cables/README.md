@@ -21,11 +21,16 @@ Connections between devices operate at a set speed, measured in **bits per secon
 ## Copper UTP Cables
 ![image](images/switch-ports.png)
 ![image](images/RJ-45-connector.png)
+
 In the image directly above, the cable is a copper UTP cable and the plastic thingy is called a RJ-45 connector. They are put onto both ends of a UTP cable and it allows them to connect to the RJ-45 ports on a switch.
+
 ![image](images/utp-cable.png)
-Copper UTP Cables
-Pairs of wires are twisted together which prevents electromagnetic interference (EMI)
-![image](images/rj-45-pinout)
+
+"unshielded", no metallic shield, which makes them vulnerable to electrical interference\
+"twisted pair", since pairs of wires are twisted together which prevents electromagnetic interference (EMI)
+
+![image](images/rj-45-pinout.jpg)
+
 An RJ-45 connector has 8 pins (the golden metal part). There are divisions inside the connector that allow you to slide in an individual wire so that it touches one pin. This means RJ-45 connectors allow 4 pairs, or 8 wires. Most have 4 pairs but there are old ones that only have 2 pairs.
 - 10/100BASE-T use 2 pairs
 - 1000/10G-BASE-T use 4 pairs
