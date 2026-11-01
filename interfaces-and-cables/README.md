@@ -72,7 +72,7 @@ Most modern equipment now has **AUTO MDI-X** feature which automatically detects
 ### 1000BASE-T and 10GBASE-T
 Each wire pair is bidirectional, meaning a pair isn’t exclusively for transmitting or receiving. 
 This allows them to transmit and receive at faster speeds. 
-![image](1000_10g_baset.png)
+![image](images/1000_10g_baset.png)
 
 ## Fiber-Optic Cables
 
