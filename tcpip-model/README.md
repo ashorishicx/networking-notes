@@ -40,6 +40,19 @@ On the left is what a mail model would be. On the right is what it is similarly 
 
 ## TCP/IP Model
 ![image](images/actual-model.png)
+Port numbers identify the application the message on the computer belongs to, like who the envelope belongs to in a house\
+IP addresses identify the network a host is in and where it is within that network, like the address of a house\
+MAC addresses is a different type of address which identifies which device to send the message to next
+
+### Physical Layer (L1)
+
+### Local Network Layer (L2)
+
+### Internet Layer (L3)
+
+### Transport Layer (L4)
+
+### Application Layer (L5, also called L7, more on that later)
 
 
 
