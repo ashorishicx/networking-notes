@@ -3,6 +3,8 @@
 ## Table of Contents
 - [Ethernet](#ethernet)
 - [Bits and Bytes](#bits-and-bytes)
+- [Copper UTP Cables](#copper-utp-cables)
+- [Fiber-Optic Cables](#fiber-optic-cables)
 
 ## Ethernet
 - a collection of standards and protocols defined in **IEEE 802.3** (document by IEEE)
@@ -67,9 +69,10 @@ A **crossover** cable is used when the transmitting pin numbers of the transmitt
 
 Most modern equipment now has **AUTO MDI-X** feature which automatically detects which pins their neighbour is transmitting on and adjusts the pins they receive data on, therefore if this feature is enabled it doesn’t matter if you use straight through or crossover.
 
-
 ### 1000BASE-T and 10GBASE-T
-
 Each wire pair is bidirectional, meaning a pair isn’t exclusively for transmitting or receiving. 
 This allows them to transmit and receive at faster speeds. 
+![image](1000_10g_baset.png)
+
+## Fiber-Optic Cables
 
