@@ -10,6 +10,8 @@ A **computer network** is a collection of interconnected devices that share reso
 
 ![image](images/switches-routers-firewalls.png)
 
+![image](images/node_icons.png)
+
 ## End Point Devices / Hosts
 
 - **Client**: a device that requests a resource from another device, called the server.
@@ -20,8 +22,6 @@ A **computer network** is a collection of interconnected devices that share reso
 
 ## Intermediary Devices
 - intermediary devices facilitate communication between two endpoints / hosts
-
-![image](images/node_icons.png)
 
 ### Switch
 - Without a switch, a device in the network would need an individual connection to each device in their LAN to be able to send a message to anyone in their LAN.
