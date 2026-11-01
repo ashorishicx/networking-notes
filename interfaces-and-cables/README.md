@@ -11,6 +11,7 @@
 - this lesson focuses on the types of cabling defines by Ethernet
 
 ## Bits and Bytes
+Media can use electrical, optical, or radio signals to represent a 1 and a 0.
 Connections between devices operate at a set speed, measured in **bits per second (bps)**
 
 | Size | # of Bits |
