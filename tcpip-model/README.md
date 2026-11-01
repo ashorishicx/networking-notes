@@ -71,13 +71,24 @@ In order for the letter in the main analogy to be properly delivered, it was enc
 In networking, data is encapsulated with other data to help other devices know where to send it and is also de-encapsulated and re-encapsulated by routers (think of them as the post offices in the mail analogy) to help bring it closer to its recipient. Also, think of the fact that data is given metadata as an implementation of network protocols. Just like with mail, there are rules for how to properly send a letter.
 
 ### Encapsulation
+![image](images/encapsulation.png)
+
 ### Decapsulation
+![image](images/decapsulation.png)
+
 ### Protocol Data Units
+![image](images/pdu.png)
 
 ### Layer Interaction Concepts
 ## Adjacent-layer interaction
+![image](images/adjlayerinter.png)
+
 ## Same-layer interaction
+![image](images/samelayerinter.png)
+
 ## Separation of layers
+![image](images/sepoflayers.png)
 
 ### OSI Model
+![image](images/osi-model.png)
 
