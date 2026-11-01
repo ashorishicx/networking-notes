@@ -70,22 +70,41 @@ A **crossover** cable is used when the transmitting pin numbers of the transmitt
 Most modern equipment now has **AUTO MDI-X** feature which automatically detects which pins their neighbour is transmitting on and adjusts the pins they receive data on, therefore if this feature is enabled it doesn’t matter if you use straight through or crossover.
 
 ### 1000BASE-T and 10GBASE-T
-Each wire pair is bidirectional, meaning a pair isn’t exclusively for transmitting or receiving. 
-This allows them to transmit and receive at faster speeds. 
+Each wire pair is bidirectional, meaning a pair isn’t exclusively for transmitting or receiving. This enables faster transmission speeds. 
 ![image](images/1000_10g_baset.png)
 
 ## Fiber-Optic Cables
 You may find other ports on a switch or a router that aren't for RJ-45 connectors. These are instead for this:
 ![image](images/sfp_transceiver.png)
 You insert this into the port, and a fiber-optic connector connects to it. 
-![image](images/fiber-optic-cable.png)
+
+![image](images/fiber-optic-cable.png)\
 Above is a fiber-optic cable. 
 
 ### Parts of a fiber-optic cable
 ![image](images/parts-of-a-fiber-optic-cable.png)
 
+There are two types of fiber-optic cables:
 ### Single-mode
+- Core narrower than multimode
+- Lighter enters at a single angle (mode) from a laser-based transmitter
+- Allows longer cables than UTP and multimode 
+- More expensive than multimode 
+
 ![image](images/single-mode_fiber.png)
 
 ### Multimode
+- Core wider than single-mode
+- Allows multiple angles (modes) of light waves to enter core
+- Allows longer cables than UTP but shorter than single-mode
+- Cheaper than single-mode
+
 ![image](images/multimode_fiber.png)
+
+### Fiber Optic Cable Standards
+| Speed | Standard | Connection Speed | Mode Support | Max Transmission Distance |
+| --- | --- | --- | --- | --- |
+| 1000BASE-LX | 802.3z | 1 Gbps | Multimode / Single | 550 meters (Multi)  / 5km (Single) |
+| 10GBASE-SR | 802.3ae | 10 Gbps | Multimode | 400 meters |
+| 10GBASE-LR | 802.3ae | 10 Gbps | Single | 10 kilometers |
+| 10GBASE-ER | 802.3ae | 10 Gbps | Single | 30 kilometers |
