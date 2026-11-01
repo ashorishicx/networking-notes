@@ -75,4 +75,6 @@ This allows them to transmit and receive at faster speeds.
 ![image](images/1000_10g_baset.png)
 
 ## Fiber-Optic Cables
-
+You may find other ports on a switch or a router that aren't for RJ-45 connectors. These are instead for this:
+![image](images/sfp_transceiver.png)
+You insert this into the port, and a fiber-optic connector connects to it. 
