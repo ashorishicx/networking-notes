@@ -79,16 +79,16 @@ In networking, data is encapsulated with other data to help other devices know w
 ### Protocol Data Units
 ![image](images/pdu.png)
 
-### Layer Interaction Concepts
-## Adjacent-layer interaction
+## Layer Interaction Concepts
+### Adjacent-layer interaction
 ![image](images/adjlayerinter.png)
 
-## Same-layer interaction
+### Same-layer interaction
 ![image](images/samelayerinter.png)
 
-## Separation of layers
+### Separation of layers
 ![image](images/sepoflayers.png)
 
-### OSI Model
+## OSI Model
 ![image](images/osi-model.png)
 
