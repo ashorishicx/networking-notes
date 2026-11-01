@@ -7,3 +7,4 @@ I specifically used the CCNA topics to learn the networking knowledge needed for
 
 - [Network Devices](./network-devices)
 - [Interfaces and Cables](./interfaces-and-cables)
+- [How the TCP/IP Model Works)(./how-the-tcp/ip-model-works)
