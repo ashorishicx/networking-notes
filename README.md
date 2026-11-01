@@ -1,7 +1,6 @@
 # CCNA 200-301 Notes
 
-My personal notes for learning CCNA topics. I used [Jermey's IT Lab](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ).
-I specifically used the CCNA topics to learn the networking knowledge needed for cybersecurity. 
+My personal notes for learning CCNA topics while watching [Jermey's IT Lab](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ). I had prior networking knowledge as well so you could see I tried to word things better for the first few lessons as I wished it was worded that was when I first learned networking. I specifically studied the CCNA as I wanted to get the networking knowledge needed for cybersecurity. 
 
 ## Table of Contens
 
