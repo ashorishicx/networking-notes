@@ -6,5 +6,5 @@ I specifically used the CCNA topics to learn the networking knowledge needed for
 ## Table of Contens
 
 - [Network Devices](./network-devices)
-- [Interfaces and Cables](./interfaces-and-cables)
 - [How the TCP/IP Model Works](./tcpip-model)
+- [Interfaces and Cables](./interfaces-and-cables)
