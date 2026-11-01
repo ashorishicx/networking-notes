@@ -9,8 +9,13 @@ A **computer network** is a collection of interconnected devices that share reso
 - **Server**: A device that provides resources to another device, called a client.
 - An endpoint / host can be a client in some situations or a server in others
 
+![Client and Server Relationship](images/client-server.png)
+![Your PC being a client when watching a YT video](images/client-server.png)
+
 ## Intermediary Devices
 - intermediary devices facilitate communication between two endpoints / hosts
 ### Switch
 ### Router
 ### Firewall
+
+![An example of interconnected networks](images/switches-routers-firewalls.png)
