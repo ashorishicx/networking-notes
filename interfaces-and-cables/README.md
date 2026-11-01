@@ -78,3 +78,14 @@ This allows them to transmit and receive at faster speeds.
 You may find other ports on a switch or a router that aren't for RJ-45 connectors. These are instead for this:
 ![image](images/sfp_transceiver.png)
 You insert this into the port, and a fiber-optic connector connects to it. 
+![image](images/fiber-optic-cable.png)
+Above is a fiber-optic cable. 
+
+### Parts of a fiber-optic cable
+![image](images/parts-of-a-fiber-optic-cable.png)
+
+### Single-mode
+![image](images/single-mode_fiber.png)
+
+### Multimode
+![image](images/multimode_fiber.png)
