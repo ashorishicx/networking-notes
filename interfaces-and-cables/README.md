@@ -51,6 +51,7 @@ Common name is what people actually call the cable, people wouldn’t want to sa
 BASE = refers to baseband signaling (out of scope of CCNA), T = twisted pairs
 
 ### 10BASE-T and 100BASE-T
+One pair is used for transmission, and the other pair is used for receiving. 
 ![image](images/straight-through.png)
 The image above is a straight through cable example. Both straight through and crossover support full duplex communication
 ![image](images/crossover.png)
