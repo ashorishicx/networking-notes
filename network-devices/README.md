@@ -1,7 +1,8 @@
 # Network Devices
 ## Table of Contents
-- Network [#network]
-- End Point Devices / Hosts 
+- Network [https://github.com/ashorishicx/CCNA-Notes/blob/main/network-devices/README.md#network]
+- End Point Devices / Hosts [https://github.com/ashorishicx/CCNA-Notes/blob/main/network-devices/README.md#end-point-devices--hosts]
+- Intermediary Devices [https://github.com/ashorishicx/CCNA-Notes/blob/main/network-devices/README.md#intermediary-devices]
 
 ## Network
 
