@@ -1,4 +1,8 @@
 # Network Devices
+## Table of Contents
+- Network [#network]
+- End Point Devices / Hosts 
+
 ## Network
 
 A **computer network** is a collection of interconnected devices that share resources with each other.
