@@ -46,14 +46,21 @@ MAC addresses is a different type of address which identifies the next device to
 Cables transmit messages between two devices, like the roads between the houses and post offices
 
 ### Physical Layer (L1)
+![image](images/layer1.png)
+![image](images/NIC.png)\
+This is a network interface card (NIC). It contains the port and also has the MAC address burned into it, hence why it is called a burned in address (BIA). MAC addresses are associated with the next layer though. 
 
 ### Local Network Layer (L2)
+![image](images/layer2.png)
+Also you do not address a message to the MAC address of a switch in order for it to reach the switch. This confusion is common among those who don’t understand the purpose of a switch. Reread the definition from [Network Devices](./network-devices). It just reads the MAC address of the message and it will know what port to send it out of (this process is called switching). 
 
 ### Internet Layer (L3)
+![image](images/layer3.png)
 
 ### Transport Layer (L4)
+![image](images/layer4.png)
 
 ### Application Layer (L5, also called L7, more on that later)
-
+![images](images/layer5.png)
 
 
