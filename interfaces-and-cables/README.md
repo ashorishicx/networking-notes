@@ -51,11 +51,8 @@ Common name is what people actually call the cable, people wouldn’t want to sa
 BASE = refers to baseband signaling (out of scope of CCNA), T = twisted pairs
 
 ### 10BASE-T and 100BASE-T
-One pair is used for transmission, and the other pair is used for receiving. 
-
-![image](images/straight-through.png)
-![image](images/crossover.png)
-NOTE: The first image is supposed to be a straight through cable example. Both straight through and crossover support full duplex communication, it is just not exclusive to straight through.
+One pair is used for transmission, and the other pair is used for receiving.\
+**Full duplex** is when devices can receive and transmit at the same time. 
 
 | DEVICE TYPE | TRANSMIT (TX) PINS | RECEIVE (RX) PINS |
 | --- | --- | --- |
@@ -64,11 +61,14 @@ NOTE: The first image is supposed to be a straight through cable example. Both s
 | PC | 1 and 2 | 3 and 6 |
 | SWITCH | 3 and 6 | 1 and 2 |
 
-**Full duplex** is when devices can receive and transmit at the same time. 
-
 A **straight through** cable is used when the transmitting pin numbers of the transmitting device correspond to the receiving pin numbers of the receiving device. 
 
+![image](images/straight-through.png)
+
 A **crossover** cable is used when the transmitting pin numbers of the transmitting device don’t correspond to the receiving pin numbers and instead of the transmitting pin numbers of the receiving device. (ex. need to connect PC to router, or same device to each other)
+
+![image](images/crossover.png)
+NOTE: The first image is supposed to be a straight through cable example. Both straight through and crossover support full duplex communication, it is just not exclusive to straight through.
 
 Most modern equipment now has **AUTO MDI-X** feature which automatically detects which pins their neighbour is transmitting on and adjusts the pins they receive data on, therefore if this feature is enabled it doesn’t matter if you use straight through or crossover.
 
