@@ -48,7 +48,7 @@ These standards define UTP copper cables.
 | 10 Gbps | 10 Gigabit Ethernet | 802.3an | 10GBASE-T | 100m Max |
 
 Common name is what people actually call the cable, people wouldn’t want to say “802.3i cable”.\
-BASE = refers to baseband signaling, you don’t need to know what means, T = twisted pairs
+BASE = refers to baseband signaling (out of scope of CCNA) T = twisted pairs
 
 ### 10BASE-T and 100BASE-T
 ![image](images/straight-through.png)
