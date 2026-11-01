@@ -2,6 +2,11 @@
 This lesson will give you a big picture on how networks work. We'll go over it more on detail, such as how each protocol specifically works, in more detail throughout the course.
 
 ## Table of Contents
+- [The Importance of Protocols and Standards](#the-importance-of-protocols-and-standards)
+- [What is a network model?](#what-is-a-network-model)
+- [TCP/IP Model](#tcpip-model)
+- [Layer Interaction Concepts](#layer-interaction-concepts)
+- [OSI Model](#osi-model)
 
 ## The Importance of Protocols and Standards
 - A **protocol** is a set of rules defining how data should be communicated between devices over a network
