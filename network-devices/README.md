@@ -11,7 +11,7 @@ A **computer network** is a collection of interconnected devices that share reso
 ## End Point Devices / Hosts
 
 - **Client**: a device that requests a resource from another device, called the server.
-- **Server**: A device that provides resources to another device, called a client.
+- **Server**: a device that provides resources to another device, called a client.
 - An endpoint / host can be a client in some situations or a server in others
 
 ![Client and Server Relationship](images/client-server.png)
