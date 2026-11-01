@@ -21,7 +21,7 @@ A **computer network** is a collection of interconnected devices that share reso
 ![image](images/client-server.png)
 
 ## Intermediary Devices
-- intermediary devices facilitate communication between two endpoints / hosts
+Devices that facilitate communication between two endpoints / hosts
 
 ### Switch
 - Has lots of ports, this is so that every device in the LAN can connect to it
