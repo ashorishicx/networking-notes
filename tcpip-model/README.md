@@ -42,7 +42,8 @@ On the left is what a mail model would be. On the right is what it is similarly 
 ![image](images/actual-model.png)
 Port numbers identify the application the message on the computer belongs to, like who the envelope belongs to in a house\
 IP addresses identify the network a host is in and where it is within that network, like the address of a house\
-MAC addresses is a different type of address which identifies which device to send the message to next
+MAC addresses is a different type of address which identifies the next device to send it to, like stops before delivering an envelope\
+Cables transmit messages between two devices, like the roads between the houses and post offices
 
 ### Physical Layer (L1)
 
