@@ -26,3 +26,11 @@ This lesson will give you a big picture on how networks work. We'll go over it m
   - each layer’s jobs allows the layer above to do their jobs
 - a protocol is the protocols from layers of the model that work together for a successful communication
 
+## An Analogy to Understand the TCP/IP Network Model
+1. You write a letter addressed to **Bob**
+2. You put in an envelope addressed to **Bob's house**
+3. You bring the envelope into your car to bring it to **Post Office A**, as Bob's house is quite far from you
+4. Post Office A will bring the envelope to a truck to bring it to **Post Office B** as it is the closest post office nearby that may be able to find another post office that can bring it closer to Bob's house OR it is a post office that is near enough to deliver it themselves
+5. Post Office B will bring the envelope to a truck and brings it to **Bob's house** because it provides service to Bob's area
+6. Bob opens their mailbox and reads it because they're the resident in their house that the envelope belongs to
+
