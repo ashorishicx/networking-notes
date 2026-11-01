@@ -1,6 +1,8 @@
 # How the TCP/IP Model Actually Works
 This lesson will give you a big picture on how networks work. We'll go over it more on detail, such as how each protocol specifically works, in more detail throughout the course.
 
+## Table of Contents
+
 ## The Importance of Protocols and Standards
 - A **protocol** is a set of rules defining how data should be communicated between devices over a network
   - For humans, we have specific social rules for different aspects of communication. For networks, those rules are protocols.
@@ -63,4 +65,19 @@ Also you do not address a message to the MAC address of a switch in order for it
 ### Application Layer (L5, also called L7, more on that later)
 ![images](images/layer5.png)
 
+## Encapsulation and Decapsulation
+In order for the letter in the main analogy to be properly delivered, it was encapsulated into many things: an envelope, which was then encapsulated inside a car, and then de-encapsulated and re-encapsulated into a truck. These steps were necessary as every layer of encapsulation the letter received helped bring the letter one step closer to the recipient.\
+\
+In networking, data is encapsulated with other data to help other devices know where to send it and is also de-encapsulated and re-encapsulated by routers (think of them as the post offices in the mail analogy) to help bring it closer to its recipient. Also, think of the fact that data is given metadata as an implementation of network protocols. Just like with mail, there are rules for how to properly send a letter.
+
+### Encapsulation
+### Decapsulation
+### Protocol Data Units
+
+### Layer Interaction Concepts
+## Adjacent-layer interaction
+## Same-layer interaction
+## Separation of layers
+
+### OSI Model
 
