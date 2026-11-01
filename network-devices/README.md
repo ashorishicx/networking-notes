@@ -8,6 +8,8 @@
 
 A **computer network** is a collection of interconnected devices that share resources with each other.
 
+![An example of interconnected networks](images/switches-routers-firewalls.png)
+
 ## End Point Devices / Hosts
 
 - **Client**: a device that requests a resource from another device, called the server.
@@ -30,5 +32,3 @@ A **computer network** is a collection of interconnected devices that share reso
 - can be placed **outside** of your LAN (filter traffic *before* reaching the router)
 - can be placed **inside** of your LAN (filter traffic *after* going through the router)
 - are considered **Next Generation Firewalls (NGFW)** when they include more modern and advanced filtering capabilities
-
-![An example of interconnected networks](images/switches-routers-firewalls.png)
