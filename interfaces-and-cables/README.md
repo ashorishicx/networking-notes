@@ -27,4 +27,7 @@ Connections between devices operate at a set speed, measured in **bits per secon
 | 10 Gbps | 10 Gigabit Ethernet | 802.3an | 10GBASE-T | 100m Max |
 
 ## Copper UTP Cables
+![image](images/switch-ports.png)
+![image](images/RJ-45-connector.png)
+In the image directly above, the plastic thingy is called a RJ-45 connector. They are put onto both ends of a UTP cable and it allows them to connect to the RJ-45 ports on a switch.
 
