@@ -25,10 +25,10 @@ In the image directly above, the cable is a copper UTP cable and the plastic thi
 ![image](images/utp-cable.png)
 Copper UTP Cables
 Pairs of wires are twisted together which prevents electromagnetic interference (EMI)
+![image](images/rj-45-pinout)
 An RJ-45 connector has 8 pins (the golden metal part). There are divisions inside the connector that allow you to slide in an individual wire so that it touches one pin. This means RJ-45 connectors allow 4 pairs, or 8 wires. Most have 4 pairs but there are old ones that only have 2 pairs.
 - 10/100BASE-T use 2 pairs
 - 1000/10G-BASE-T use 4 pairs
-
 
 ### Copper UTP Cable Standards
 These standards define UTP copper cables.
