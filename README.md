@@ -5,4 +5,4 @@ I specifically learned the CCNA topics to learn the networking knowledge needed 
 
 ## Table of Contens
 
-- [Network Devices](./network_devices)
+- [Network Devices](./network-devices)
