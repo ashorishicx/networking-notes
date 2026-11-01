@@ -55,7 +55,7 @@ One pair is used for transmission, and the other pair is used for receiving.
 
 ![image](images/straight-through.png)
 ![image](images/crossover.png)
-NOTE: The first image is supposed to be a straight through cable example. Both straight through and crossover support full duplex communication
+NOTE: The first image is supposed to be a straight through cable example. Both straight through and crossover support full duplex communication, it is just not exclusive to straight through.
 
 | DEVICE TYPE | TRANSMIT (TX) PINS | RECEIVE (RX) PINS |
 | --- | --- | --- |
