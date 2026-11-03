@@ -19,3 +19,6 @@ The blue cable is the rollover cable. Most laptops today don't have a serial por
 
 ![image](images/putty.png)
 On the right is an image changes you can make to your console connection. You rarely will need to make changes to these and you do not need to know what it means, but you should memorize the default settings.
+
+## Modes of the CLI
+There are various modes that you can be in. The mode you're currently in will can allow or restrict you from entering certain commands. You can enter or leave modes by typing certain commands. When you first open the CLI, you will be in **User EXEC mode**. 
