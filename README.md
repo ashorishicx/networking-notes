@@ -9,4 +9,4 @@ I do not intend these notes to be used by other people, so it's likely that the 
 - [Network Devices](./notes/network-devices)
 - [How the TCP/IP Model Works](./notes/tcpip-model)
 - [Interfaces and Cables](./notes/interfaces-and-cables)
-- [Intro the CLI](.notes/intro-to-the-cli)
+- [Intro the CLI](./notes/intro-to-the-cli)
