@@ -6,7 +6,7 @@ I do not intend these notes to be used by other people, so it's likely that the 
 
 ## Table of Contens
 
-- [Network Devices](./network-devices)
-- [How the TCP/IP Model Works](./tcpip-model)
-- [Interfaces and Cables](./interfaces-and-cables)
-- [Intro the CLI](./intro-to-the-cli)
+- [Network Devices](./notes/network-devices)
+- [How the TCP/IP Model Works](./notes/tcpip-model)
+- [Interfaces and Cables](./notes/interfaces-and-cables)
+- [Intro the CLI](.notes/intro-to-the-cli)
