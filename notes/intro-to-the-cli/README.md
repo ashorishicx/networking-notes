@@ -26,5 +26,14 @@ There are various modes that you can be in. The mode you're currently in will ca
 There is also a series of letters before the area where you can type, like `Router>`: "Router" is the hostname of the device and the symbols following that, like ">", will represent the mode you're currently in.
 
 ### User EXEC Mode
-When you first open the CLI, you will be in **User EXEC mode**. 
-`Router>` the `>`represents that you're currently in User EXEC mode.
+When you first open the CLI, you will be in **User EXEC mode**.\
+`Router>` the `>`represents that you're currently in User EXEC mode.\
+This mode allows you to view things, but not make configurations.\
+
+### Privileged EXEC Mode
+If you enter the command `enable` in user EXEC mode, you can enter **Privileged EXEC Mode**\
+\
+`Router> enable`\
+`Router#`\
+\
+The `#` represents that you're currently in Privileged EXEC mode.\
