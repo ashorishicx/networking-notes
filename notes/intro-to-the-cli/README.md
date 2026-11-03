@@ -12,7 +12,9 @@ There are several methods to access a cisco device's CLI:
 ### Console Connection
 - you will need a laptop to type the commands on the CLI
 - you will need a **rollover cable** (DB9 serial to RJ45 OR a DB9 Serial to USB) that connects the laptop to the cisco device's console port
-- you will need a **terminal emulator** (ex. PuTTy is a popular choice) and select connect via "Serial"
+- after plugging in, you need a **terminal emulator** app on your laptop (ex. PuTTy is a popular choice) and select connect via "Serial"
 
 <img src="images/console-port.png" width="32.1375%"><img src="images/rollover-cables.png" width="60%">\
 The blue cable is the rollover cable. Most laptops today don't have a serial port, so you will likely also need to use that black cable on the left to that connects to the serial connector of the rollover cable, and have the USB connector connect to the laptop. 
+
+On the right is an image changes you can make to your console connection. You rarely will need to make changes to these and you do not need to know what it means, but you should memorize the default settings.
