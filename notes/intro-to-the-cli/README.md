@@ -21,4 +21,9 @@ The blue cable is the rollover cable. Most laptops today don't have a serial por
 On the right is an image changes you can make to your console connection. You rarely will need to make changes to these and you do not need to know what it means, but you should memorize the default settings.
 
 ## Modes of the CLI
-There are various modes that you can be in. The mode you're currently in will can allow or restrict you from entering certain commands. You can enter or leave modes by typing certain commands. When you first open the CLI, you will be in **User EXEC mode**. 
+There are various modes that you can be in. The mode you're currently in will can allow or restrict you from entering certain commands. You can enter or leave modes by typing certain commands.\
+\
+There is also a series of letters before the area where you can type, like "Router>": "Router" is the hostname of the device and the symbols following that, like ">", will represent the mode you're currently in.
+
+### User EXEC Mode
+When you first open the CLI, you will be in **User EXEC mode**. 
