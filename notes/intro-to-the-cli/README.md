@@ -35,8 +35,6 @@ This mode allows you to view the device's configurations, but not change configu
 If you enter the command `enable` in user EXEC mode, you can enter **Privileged EXEC Mode**\
 \
 `Router> enable`\
-`Router#`\
-\
-The `#` represents that you're currently in Privileged EXEC mode.
+`Router#`  The `#` represents that you're currently in Privileged EXEC mode.\
 This mode gives you more access to the device's configuration, restart the device, etc.
 You cannot change configurations, but can change time on the device, save configuration file, etc.
