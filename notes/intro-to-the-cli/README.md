@@ -42,7 +42,11 @@ You cannot change configurations, but can change time on the device, save config
 
 ## CLI Shortcuts
 ### The Question Mark Command
-You can use the `?` command in any mode to view available commands on that mode. 
+You can use the `?` command in any mode to view available commands on that mode.\
+\
+You can also do something like this: \
+`Router>e?`\
+and it would should you all the possible commands that begin with the letter e. 
 
 ### The Tab Key
 If you type this:\
