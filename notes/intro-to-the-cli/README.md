@@ -69,3 +69,8 @@ will execute. However keep in mind there are limits to abbreviating commands. Ju
 `Router> en`\
 will result in the CLI telling you "% Ambiguous command: "e"". Best way to figure out is just by experimenting. 
 
+## Commands
+There are obviously a lot more commands but these are the ones will learn this module:
+
+### enable password
+
