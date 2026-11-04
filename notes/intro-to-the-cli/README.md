@@ -24,7 +24,9 @@ On the right is an image changes you can make to your console connection. You ra
 ## Modes of the CLI
 There are various modes that you can be in. The mode you're currently in will can allow or restrict you from entering certain commands. You can enter or leave modes by typing certain commands.\
 \
-There is also a series of letters before the area where you can type, like `Router>`: "Router" is the hostname of the device and the symbols following that, like ">", will represent the mode you're currently in.
+There is also a series of letters before the area where you can type, like `Router>`: "Router" is the hostname of the device and the symbols following that, like ">", will represent the mode you're currently in.\
+\
+You can use the `?` command in any mode to view available commands on that mode. 
 
 ### User EXEC Mode
 When you first open the CLI, you will be in **User EXEC mode**.\
@@ -36,5 +38,6 @@ If you enter the command `enable` in user EXEC mode, you can enter **Privileged 
 \
 `Router> enable`\
 `Router#`  The `#` represents that you're currently in Privileged EXEC mode.\
+\
 This mode gives you more access to the device's configuration, restart the device, etc.
 You cannot change configurations, but can change time on the device, save configuration file, etc.
