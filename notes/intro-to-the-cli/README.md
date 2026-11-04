@@ -3,6 +3,7 @@
 
 ## Table of Contents
 - [How do you access the CLI?](#how-do-you-access-the-cli)
+- [Modes of the CLI](#modes-of-the-cli)
 
 ## How do you access the CLI?
 There are several methods to access a cisco device's CLI:
@@ -28,7 +29,7 @@ There is also a series of letters before the area where you can type, like `Rout
 ### User EXEC Mode
 When you first open the CLI, you will be in **User EXEC mode**.\
 `Router>` the `>`represents that you're currently in User EXEC mode.\
-This mode allows you to view things, but not make configurations.\
+This mode allows you to view things, but not make configurations.
 
 ### Privileged EXEC Mode
 If you enter the command `enable` in user EXEC mode, you can enter **Privileged EXEC Mode**\
@@ -36,4 +37,4 @@ If you enter the command `enable` in user EXEC mode, you can enter **Privileged 
 `Router> enable`\
 `Router#`\
 \
-The `#` represents that you're currently in Privileged EXEC mode.\
+The `#` represents that you're currently in Privileged EXEC mode.
