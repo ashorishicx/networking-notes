@@ -29,7 +29,7 @@ There is also a series of letters before the area where you can type, like `Rout
 ### User EXEC Mode
 When you first open the CLI, you will be in **User EXEC mode**.\
 `Router>` the `>`represents that you're currently in User EXEC mode.\
-This mode allows you to view things, but not make configurations.
+This mode allows you to view the device's configurations, but not change configurations.
 
 ### Privileged EXEC Mode
 If you enter the command `enable` in user EXEC mode, you can enter **Privileged EXEC Mode**\
@@ -38,3 +38,5 @@ If you enter the command `enable` in user EXEC mode, you can enter **Privileged 
 `Router#`\
 \
 The `#` represents that you're currently in Privileged EXEC mode.
+This mode gives you more access to the device's configuration, restart the device, etc.
+You cannot change configurations, but can change time on the device, save configuration file, etc.
