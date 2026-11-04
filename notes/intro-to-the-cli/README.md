@@ -60,7 +60,7 @@ and it would should you all the possible commands that begin with the letter e.
 If you type this:\
 `Router> en`\
 And if you press tab, it will spell out the full command:\
-`Router> enable`\
+`Router> enable`
 
 ### Command Abbreviations
 Also, you don't really need to type the full command, pressing enter even if you just typed this:\
@@ -73,4 +73,18 @@ will result in the CLI telling you "% Ambiguous command: "e"". Best way to figur
 There are obviously a lot more commands but these are the ones will learn this module:
 
 ### enable password
+In global configuration mode:\
+`Router(config)#enable password CCNA`\
+will set a password, in this example CCNA, as the password in order to enter privileged exec mode.\
+passwords are case sensitivie
+
+### exit
+You can enter this command in any mode you're in, and you will go back to a lower privileged mode, for example:\
+`Router#exit`\
+will make you return you to user EXEC mode.\
+`Router>`
+
+### running-config
+
+### startup-config
 
