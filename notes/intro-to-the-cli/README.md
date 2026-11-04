@@ -25,8 +25,6 @@ On the right is an image changes you can make to your console connection. You ra
 There are various modes that you can be in. The mode you're currently in will can allow or restrict you from entering certain commands. You can enter or leave modes by typing certain commands.\
 \
 There is also a series of letters before the area where you can type, like `Router>`: "Router" is the hostname of the device and the symbols following that, like ">", will represent the mode you're currently in.\
-\
-You can use the `?` command in any mode to view available commands on that mode. 
 
 ### User EXEC Mode
 When you first open the CLI, you will be in **User EXEC mode**.\
@@ -41,3 +39,21 @@ If you enter the command `enable` in user EXEC mode, you can enter **Privileged 
 \
 This mode gives you more access to the device's configuration, restart the device, etc.
 You cannot change configurations, but can change time on the device, save configuration file, etc.
+
+## CLI Shortcuts
+### The Question Mark Command
+You can use the `?` command in any mode to view available commands on that mode. 
+
+### The Tab Key
+If you type this:\
+`Router> en`\
+And if you press tab, it will spell out the full command:\
+`Router> enable`\
+
+### Command Abbreviations
+Also, you don't really need to type the full command, pressing enter even if you just typed this:\
+`Router> en`\
+will execute. However keep in mind there are limits to abbreviating commands. Just doing this:\
+`Router> en`\
+will result in the CLI telling you "% Ambiguous command: "e"". Best way to figure out is just by experimenting. 
+
