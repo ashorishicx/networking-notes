@@ -40,6 +40,14 @@ If you enter the command `enable` in user EXEC mode, you can enter **Privileged 
 This mode gives you more access to the device's configuration, restart the device, etc.
 You cannot change configurations, but can change time on the device, save configuration file, etc.
 
+### Global Configuration Mode
+If you enter the command `configure terminal`, you will enter **Global Configuration Mode**\
+\
+`Router# configure terminal` (also conf t is the shortest possible abbreviation)\
+`Router(config)#`  The `(config)#` represents that you're currently global configuration mode.\
+\
+This mode allows you to enter commands that make changes to the whole device.
+
 ## CLI Shortcuts
 ### The Question Mark Command
 You can use the `?` command in any mode to view available commands on that mode.\
