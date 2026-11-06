@@ -46,7 +46,8 @@ If you enter the command `configure terminal`, you will enter **Global Configura
 `Router# configure terminal` (also conf t is the shortest possible abbreviation)\
 `Router(config)#`  The `(config)#` represents that you're currently global configuration mode.\
 \
-This mode allows you to enter commands that make changes to the whole device.
+This mode allows you to enter commands that make changes to the whole device.\
+This mode will allow you to enter other modes that allow you to make changes to specific areas on the device. We will learn about them later. 
 
 ## CLI Shortcuts
 ### The Question Mark Command
